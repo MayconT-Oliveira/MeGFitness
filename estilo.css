@@ -339,7 +339,7 @@ input
 #float_btn_fundo{
     height: 30px;
     width: 30px;
-	bottom: 12vh;
+	bottom: 13vh;
 	right: 3.5vw;
 }
 
@@ -832,7 +832,7 @@ input
     }
         
     #float_btn_fundo{
-        bottom: 12vh;
+        bottom: 13vh;
     }
 
     /* INDEX */
